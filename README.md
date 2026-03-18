@@ -1,11 +1,15 @@
 <!-- Header Wave Animation & Title -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=200&section=header&text=Hello,%20I'm%20Aditya%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <a href="https://github.com/AdiCodexy">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=200&section=header&text=Hello,%20I'm%20Aditya%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  </a>
 </div>
 
 <div align="center">
   <p><strong>AI & ML Engineer | Currently into Vibe Coding</strong></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=Turning+AI%2FML+concepts+into+scaleable+projects...;Exploring+Neural+Networks+...+Computer+Vision;Building+intelligent+systems;Vibe+Coding!+🚀" alt="Typing SVG" />
+  <a href="https://github.com/AdiCodexy">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Turning+AI+concepts+into+scalable+projects;Exploring+Neural+Networks;Building+intelligent+systems;Vibe+Coding!" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -14,10 +18,9 @@
 
 I am a student passionate about turning AI/ML concepts into solid, scalable projects. I thrive on building intelligent systems and exploring the intersection of deep learning and creative coding.
 
-- 🚀 **Main project:** [Your Project Name] - Building the next generation of AI-powered tools.
-- 🧠 **Interests:** Neural Networks, Computer Vision, and "Vibe Coding".
-- ✍️ **Beyond code:** [Something about your hobbies - e.g., reading sci-fi, hiking, or digital art.]
-- 📫 **How to reach me:** adityakarale7@gmail.com
+-  **Interests:** Deep learning , Machine Learning, and "Vibe Coding".
+-  **Beyond code:** biking, Chess, Content Creation
+-  **How to reach me:** adityakarale7@gmail.com
 
 ---
 
@@ -25,23 +28,23 @@ I am a student passionate about turning AI/ML concepts into solid, scalable proj
 
 <div align="center">
   <!-- Front-end -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <br>
   <!-- Back-end -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <br>
   <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
   <br>
   <!-- Infra -->
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 </div>
 
 ---
@@ -49,12 +52,18 @@ I am a student passionate about turning AI/ML concepts into solid, scalable proj
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiCodexy&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
+  <a href="https://github.com/AdiCodexy">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  </a>
+  <a href="https://github.com/AdiCodexy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiCodexy&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
+  </a>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <a href="https://github.com/AdiCodexy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  </a>
 </div>
 
 ---
@@ -75,5 +84,7 @@ I am a student passionate about turning AI/ML concepts into solid, scalable proj
 
 <!-- Footer Wave Graphic -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=100&section=footer" width="100%" />
+  <a href="https://github.com/AdiCodexy">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=100&section=footer" width="100%" />
+  </a>
 </div>
