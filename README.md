@@ -1,18 +1,9 @@
-<!-- Header Wave Animation & Title -->
 <div align="center">
-  <a href="https://github.com/AdiCodexy">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=150&section=header" width="100%" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/AdiCodexy">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=50&pause=1000&color=818cf8&center=true&vCenter=true&width=600&lines=Hello,+I'm+Aditya;Welcome+to+my+Profile" alt="Main Title" />
-  </a>
-</div>
+# Hello, I'm Aditya
 
-<div align="center">
-  <p><strong>AI & ML Engineer | Currently into Vibe Coding</strong></p>
+<p><strong>AI & ML Engineer | Currently into Vibe Coding</strong></p>
+
 </div>
 
 ---
@@ -82,12 +73,5 @@ I am a student passionate about turning AI/ML concepts into solid, scalable proj
   </a>
   <a href="mailto:adityakarale7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<!-- Footer Wave Graphic -->
-<div align="center">
-  <a href="https://github.com/AdiCodexy">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=100&section=footer" width="100%" />
   </a>
 </div>
