@@ -1,30 +1,33 @@
 <!-- Header Wave Animation & Title -->
 <div align="center">
   <a href="https://github.com/AdiCodexy">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=200&section=header&text=Hello,%20I'm%20Aditya%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=818cf8&height=150&section=header" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AdiCodexy">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=50&pause=1000&color=818cf8&center=true&vCenter=true&width=600&lines=Hello,+I'm+Aditya;Welcome+to+my+Profile" alt="Main Title" />
   </a>
 </div>
 
 <div align="center">
   <p><strong>AI & ML Engineer | Currently into Vibe Coding</strong></p>
-  <a href="https://github.com/AdiCodexy">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Turning+AI+concepts+into+scalable+projects;Exploring+Neural+Networks;Building+intelligent+systems;Vibe+Coding!" alt="Typing SVG" />
-  </a>
 </div>
 
 ---
 
-### 👨‍🚀 About Me
+### About Me
 
 I am a student passionate about turning AI/ML concepts into solid, scalable projects. I thrive on building intelligent systems and exploring the intersection of deep learning and creative coding.
 
--  **Interests:** Deep learning , Machine Learning, and "Vibe Coding".
--  **Beyond code:** biking, Chess, Content Creation
--  **How to reach me:** adityakarale7@gmail.com
+- **Interests:** Deep learning , Machine Learning, and "Vibe Coding".
+- **Beyond code:** biking, Chess, Content Creation
+- **How to reach me:** adityakarale7@gmail.com
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <div align="center">
   <!-- Front-end -->
@@ -49,7 +52,7 @@ I am a student passionate about turning AI/ML concepts into solid, scalable proj
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <a href="https://github.com/AdiCodexy">
@@ -68,7 +71,7 @@ I am a student passionate about turning AI/ML concepts into solid, scalable proj
 
 ---
 
-### 🔗 Let's Connect
+### Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-karale-2b589632a" target="_blank">
