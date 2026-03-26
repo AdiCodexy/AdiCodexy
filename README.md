@@ -1,10 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fbcce7&height=120&section=header" width="100%" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR0bmZ6enc0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCB3aXRoX2FuaW1hdGVkX2FzY2lpJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%">
-</p>
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Aditya%20Karale&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Vibe%20Coder&descAlignY=58&descColor=aaaaaa" width="100%"/>
 
 ![Stars](https://img.shields.io/github/stars/AdiCodexy?style=flat-square&color=white&labelColor=black&label=⭐%20Stars)
 ![Followers](https://img.shields.io/github/followers/AdiCodexy?style=flat-square&color=white&labelColor=black&label=◈%20Followers)
@@ -22,27 +18,20 @@
 
 <img align="right" width="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="brain gif"/>
 
-**Hey there! I'm Aditya**
+### Hey there! I'm Aditya 👋
 
-I'm an AI & ML Engineer fueled by curiosity and an unhealthy obsession with building things that *actually work*.
+I'm an **AI & ML Engineer** fueled by curiosity and an unhealthy obsession with building things that *actually work*.
 By day, I turn AI/ML concepts into solid, scalable projects.
-By night, I'm deep in vibe coding sessions — where the music hits and the model trains itself (hopefully).
+By night, I'm deep in vibe coding sessions — where the music hits and the model trains itself *(hopefully)*.
 
-When I'm not staring at loss curves, I'm:
-- 🚲 Out on a bike ride, clearing my head
-- ♟️ Playing chess and pretending I had a strategy all along
-- 🎬 Creating content and overediting it until 3AM
+<br>
 
-```python
-class Aditya:
-    name      = "Aditya Karale"
-    role      = "AI & ML Engineer"
-    fuel      = ["Deep Learning", "Vibe Coding", "Late night commits"]
-    interests = ["Deep Learning", "Machine Learning", "Creative AI"]
-    hobbies   = ["Biking", "Chess", "Content Creation"]
-    reach_me  = "adityakarale7@gmail.com"
-    motto     = "Build it. Break it. Learn it. Repeat."
-```
+🎯 &nbsp; **Role** — AI & ML Engineer  
+🔥 &nbsp; **Fuel** — Deep Learning, Vibe Coding, Late night commits  
+🧩 &nbsp; **Interests** — Deep Learning, Machine Learning, Creative AI  
+🚲 &nbsp; **Beyond code** — Biking, Chess, Content Creation  
+📬 &nbsp; **Reach me** — adityakarale7@gmail.com  
+💬 &nbsp; **Motto** — *Build it. Break it. Learn it. Repeat.*
 
 ---
 
@@ -96,7 +85,7 @@ class Aditya:
 
 > *"Build it. Break it. Learn it. Repeat."*
 
-> *"Every model I train is essentially a small, desperate apology to my future self.*
+> *"Every model I train is a small, desperate apology to my future self.*
 > *Someday I'll look at these hyperparameters and wonder who let me near a GPU."*
 
 </div>
@@ -111,10 +100,6 @@ class Aditya:
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaka1ale)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakarale7@gmail.com)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
 
----
-
-<div align="center">
-<sub>Build intelligent. Ship relentlessly. Vibe always.</sub>
 </div>
