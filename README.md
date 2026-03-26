@@ -2,7 +2,7 @@
 
 # Hey, I'm Aditya Karale
 
-### AI & ML Engineer &nbsp;|&nbsp; Currently into Vibe Coding
+### AI & ML Engineer &nbsp;|&nbsp; training my lifes model
 </div>
 
 ---
