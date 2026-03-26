@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Aditya Karale
+# Hey, I'm Aditya Karale
 
 ### AI & ML Engineer &nbsp;|&nbsp; Currently into Vibe Coding
 
@@ -14,11 +14,11 @@
 
 <div align="center">
 
-## 🧠 Know About Me
+##  Know About Me
 
 </div>
 
-### Hey there! I'm Aditya 👋
+### Hey there! I'm Aditya 
 
 I'm an **AI & ML Engineer** fueled by curiosity and an unhealthy obsession with building things that *actually work*.
 By day, I turn AI/ML concepts into solid, scalable projects.
@@ -26,12 +26,12 @@ By night, I'm deep in vibe coding sessions — where the music hits and the mode
 
 <br>
 
-🎯 &nbsp; **Role** — AI & ML Engineer  
-🔥 &nbsp; **Fuel** — Deep Learning, Vibe Coding, Late night commits  
-🧩 &nbsp; **Interests** — Deep Learning, Machine Learning, Creative AI  
-🚲 &nbsp; **Beyond code** — Biking, Chess, Content Creation  
-📬 &nbsp; **Reach me** — adityakarale7@gmail.com  
-💬 &nbsp; **Motto** — *Build it. Break it. Learn it. Repeat.*
+ &nbsp; **Role** — AI & ML Engineer  
+ &nbsp; **Fuel** — Deep Learning, Vibe Coding, Late night commits  
+ &nbsp; **Interests** — Deep Learning, Machine Learning, Creative AI  
+ &nbsp; **Beyond code** — Biking, Chess, Content Creation  
+ &nbsp; **Reach me** — adityakarale7@gmail.com  
+ &nbsp; **Motto** — *Build it. Break it. Learn it. Repeat.*
 
 ---
 
@@ -68,7 +68,7 @@ By night, I'm deep in vibe coding sessions — where the music hits and the mode
 
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdiCodexy&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
@@ -94,7 +94,7 @@ By night, I'm deep in vibe coding sessions — where the music hits and the mode
 
 <div align="center">
 
-## 🔗 Connect
+##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-karale-2b589632a)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaka1ale)
