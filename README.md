@@ -3,11 +3,6 @@
 # Hey, I'm Aditya Karale
 
 ### AI & ML Engineer &nbsp;|&nbsp; Currently into Vibe Coding
-
-![Stars](https://img.shields.io/github/stars/AdiCodexy?style=flat-square&color=white&labelColor=000000&label=⭐%20Stars)
-![Followers](https://img.shields.io/github/followers/AdiCodexy?style=flat-square&color=white&labelColor=000000&label=◈%20Followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=AdiCodexy&style=flat-square&color=000000&label=👁%20Views)](https://github.com/AdiCodexy)
-
 </div>
 
 ---
