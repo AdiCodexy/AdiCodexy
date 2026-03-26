@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Aditya%20Karale&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Vibe%20Coder&descAlignY=58&descColor=aaaaaa" width="100%"/>
+# 👋 Hey, I'm Aditya Karale
 
-![Stars](https://img.shields.io/github/stars/AdiCodexy?style=flat-square&color=white&labelColor=black&label=⭐%20Stars)
-![Followers](https://img.shields.io/github/followers/AdiCodexy?style=flat-square&color=white&labelColor=black&label=◈%20Followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=AdiCodexy&style=flat-square&color=black&label=👁%20Views)](https://github.com/AdiCodexy)
+### AI & ML Engineer &nbsp;|&nbsp; Currently into Vibe Coding
+
+![Stars](https://img.shields.io/github/stars/AdiCodexy?style=flat-square&color=white&labelColor=000000&label=⭐%20Stars)
+![Followers](https://img.shields.io/github/followers/AdiCodexy?style=flat-square&color=white&labelColor=000000&label=◈%20Followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=AdiCodexy&style=flat-square&color=000000&label=👁%20Views)](https://github.com/AdiCodexy)
 
 </div>
 
@@ -15,8 +17,6 @@
 ## 🧠 Know About Me
 
 </div>
-
-<img align="right" width="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="brain gif"/>
 
 ### Hey there! I'm Aditya 👋
 
@@ -100,6 +100,8 @@ By night, I'm deep in vibe coding sessions — where the music hits and the mode
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaka1ale)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakarale7@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+<br>
+
+*Build intelligent. Ship relentlessly. Vibe always.*
 
 </div>
