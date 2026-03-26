@@ -1,12 +1,9 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fbcce7&height=120&section=header" width="100%" />
 
-```
- █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗ 
-██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
-███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
-██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
-██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR0bmZ6enc0eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCB3aXRoX2FuaW1hdGVkX2FzY2lpJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%">
+</p>
 ```
 
 ![Stars](https://img.shields.io/github/stars/AdiCodexy?style=flat-square&color=white&labelColor=black&label=⭐%20Stars)
