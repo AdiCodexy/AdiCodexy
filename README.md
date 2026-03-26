@@ -1,77 +1,123 @@
 <div align="center">
 
-# Hello, I'm Aditya
+```
+ █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗ 
+██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
+███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
+██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
+██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+```
 
-<p><strong>AI & ML Engineer | Currently into Vibe Coding</strong></p>
+![Stars](https://img.shields.io/github/stars/AdiCodexy?style=flat-square&color=white&labelColor=black&label=⭐%20Stars)
+![Followers](https://img.shields.io/github/followers/AdiCodexy?style=flat-square&color=white&labelColor=black&label=◈%20Followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=AdiCodexy&style=flat-square&color=black&label=👁%20Views)](https://github.com/AdiCodexy)
 
 </div>
 
 ---
 
-### About Me
+<div align="center">
 
-I am a student passionate about turning AI/ML concepts into solid, scalable projects. I thrive on building intelligent systems and exploring the intersection of deep learning and creative coding.
+## 🧠 Know About Me
 
-- **Interests:** Deep learning , Machine Learning, and "Vibe Coding".
-- **Beyond code:** biking, Chess, Content Creation
-- **How to reach me:** adityakarale7@gmail.com
+</div>
+
+<img align="right" width="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="brain gif"/>
+
+**Hey there! I'm Aditya**
+
+I'm an AI & ML Engineer fueled by curiosity and an unhealthy obsession with building things that *actually work*.
+By day, I turn AI/ML concepts into solid, scalable projects.
+By night, I'm deep in vibe coding sessions — where the music hits and the model trains itself (hopefully).
+
+When I'm not staring at loss curves, I'm:
+- 🚲 Out on a bike ride, clearing my head
+- ♟️ Playing chess and pretending I had a strategy all along
+- 🎬 Creating content and overediting it until 3AM
+
+```python
+class Aditya:
+    name      = "Aditya Karale"
+    role      = "AI & ML Engineer"
+    fuel      = ["Deep Learning", "Vibe Coding", "Late night commits"]
+    interests = ["Deep Learning", "Machine Learning", "Creative AI"]
+    hobbies   = ["Biking", "Chess", "Content Creation"]
+    reach_me  = "adityakarale7@gmail.com"
+    motto     = "Build it. Break it. Learn it. Repeat."
+```
 
 ---
 
-### Tech Stack
-
 <div align="center">
-  <!-- Front-end -->
-  <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <br>
-  <!-- Back-end -->
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <br>
-  <!-- AI / ML -->
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-  <br>
-  <!-- Infra -->
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Infra & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
 
-### GitHub Stats
+<div align="center">
 
-<div align="center">
-  <a href="https://github.com/AdiCodexy">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  </a>
-  <a href="https://github.com/AdiCodexy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdiCodexy&theme=tokyonight&hide_border=true&background=0D1117" height="150" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/AdiCodexy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  </a>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdiCodexy&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+
 </div>
 
 ---
 
-### Let's Connect
+<div align="center">
+
+> *"Build it. Break it. Learn it. Repeat."*
+
+> *"Every model I train is essentially a small, desperate apology to my future self.*
+> *Someday I'll look at these hyperparameters and wonder who let me near a GPU."*
+
+</div>
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aditya-karale-2b589632a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/adityaka1ale" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:adityakarale7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-karale-2b589632a)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaka1ale)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakarale7@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Build intelligent. Ship relentlessly. Vibe always.</sub>
 </div>
