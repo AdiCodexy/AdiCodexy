@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profilebanner.jpg" width="100%"/>
+<img src="bannercodexy.jpg" width="100%"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 🧠 About me
 
-<img align="right" src="rightpic.png" width="220px" style="margin-left:20px"/>
+<img align="right" src="rightpic.jpg" width="220px" style="margin-left:20px"/>
 
 Hello! I'm **Aditya Karale**, an AI & ML Engineer fueled by curiosity and an unhealthy obsession with building things that *actually work*.
 
