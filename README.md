@@ -71,21 +71,9 @@ By night, I'm deep in vibe coding sessions — where the music hits and the mode
 
 ## Statistics
 
-<table>
-<tr>
-<td>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=666666)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AdiCodexy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666&stroke=000000&currStreakNum=ffffff&sideNums=ffffff)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=666666" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666)
 
-</td>
-<td>
-
-<img src="https://streak-stats.demolab.com/?user=AdiCodexy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666&stroke=000000&currStreakNum=ffffff&sideNums=ffffff" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=000000&color=666666&line=ffffff&point=ffffff&area=true&hide_border=true" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=000000&color=666666&line=ffffff&point=ffffff&area=true&hide_border=true)
