@@ -23,9 +23,7 @@ Hey, I'm **Aditya Karale** — an AI & ML Engineer who enjoys building things th
 - 🎧 Late-night coding + music = best productivity  
 - 🧠 Interests: Deep Learning, Machine Learning, Creative AI  
 - 🌍 Beyond code: Biking, Chess, Content Creation  
-- 📩 Reach me: **adityakarale7@gmail.com**  
-
-> *Build it. Break it. Learn it. Repeat.*
+- 📩 Reach me: **adityakarale7@gmail.com**
 
 <br clear="right"/>
 
@@ -65,12 +63,69 @@ Hey, I'm **Aditya Karale** — an AI & ML Engineer who enjoys building things th
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+</div>
+
+### 🔹 AI Resume Analyzer  
+> Smart system that analyzes resumes and gives improvement suggestions using NLP  
+
+- ⚙️ Built with: Python, NLP, ML  
+- 🎯 Features: Resume scoring, keyword matching, suggestions  
+- 🔗 [View Project](https://github.com/AdiCodexy/YOUR-REPO)
+
+---
+
+### 🔹 Real-Time Chat App  
+> Full-stack chat application with real-time messaging  
+
+- ⚙️ Built with: React, Node.js, Socket.io  
+- 🎯 Features: Live chat, authentication, responsive UI  
+- 🔗 [View Project](https://github.com/AdiCodexy/YOUR-REPO)
+
+---
+
+### 🔹 AI Image Generator  
+> Generate images from text prompts using deep learning  
+
+- ⚙️ Built with: Python, Diffusion Models  
+- 🎯 Features: Prompt-based image generation  
+- 🔗 [View Project](https://github.com/AdiCodexy/YOUR-REPO)
+
+---
+
 ## 📊 Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AdiCodexy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666&stroke=000000&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+### 🔥 Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=000000&color=666666&line=ffffff&point=ffffff&area=true&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=AdiCodexy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666&stroke=000000&currStreakNum=ffffff&sideNums=ffffff" width="90%"/>
+
+<br><br>
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=000000&color=666666&line=ffffff&point=ffffff&area=true&hide_border=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧩 What I'm Working On
+
+- 🔭 Currently building AI-powered applications  
+- 🌱 Learning advanced deep learning & system design  
+- ⚡ Goal: Become a top-tier AI Engineer  
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you like my work or want to collaborate, feel free to reach out 🚀
 
 </div>
