@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profilebanner.jpg" alt="Banner" width="100%" />
+  <img src="bannercodexy.jpg" alt="Banner" width="100%" />
 </div>
 
 <!--- ═══════════════════════════════════════════════════════════════ --->
