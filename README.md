@@ -21,7 +21,9 @@ Hey, I'm **Aditya Karale** — an AI & ML Engineer who enjoys building things th
 - Beyond code: Biking, Chess, Content Creation  
 - Reach me: **adityakarale7@gmail.com**
 <br clear="right"/>
+
 ---
+
 ## Tech Stack
 
 <div align="center">
