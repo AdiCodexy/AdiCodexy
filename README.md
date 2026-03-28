@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profilebanner.png" alt="Aditya Karale Banner" width="100%" />
+  <img src="profilebanner.jpg" alt="Aditya Karale Banner" width="100%" />
 </div>
 
 <br>
