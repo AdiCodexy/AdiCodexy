@@ -22,7 +22,7 @@
 
 ## 🧠 About me
 
-<img align="right" src="rightpic.jpg" width="220px" style="margin-left:20px"/>
+<img align="right" src="rightpicx.jpg" width="220px" style="margin-left:20px"/>
 
 Hello! I'm **Aditya Karale**, an AI & ML Engineer fueled by curiosity and an unhealthy obsession with building things that *actually work*.
 
@@ -75,32 +75,17 @@ By night, I'm deep in vibe coding sessions — where the music hits and the mode
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=666666)
+<img src="https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=666666" />
 
 </td>
 <td>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AdiCodexy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666&stroke=000000&currStreakNum=ffffff&sideNums=ffffff)
+<img src="https://streak-stats.demolab.com/?user=AdiCodexy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666&stroke=000000&currStreakNum=ffffff&sideNums=ffffff" />
 
 </td>
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=000000&color=666666&line=ffffff&point=ffffff&area=true&hide_border=true)
-
----
-
-<div align="center">
-
-*"Every model I train is a small, desperate apology to my future self.*
-*Someday I'll look at these hyperparameters and wonder who let me near a GPU."*
-
-<br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AdiCodexy&color=000000&style=flat-square&label=VISITORS)
-
-*Build intelligent. Ship relentlessly. Vibe always.*
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=000000&color=666666&line=ffffff&point=ffffff&area=true&hide_border=true" />
