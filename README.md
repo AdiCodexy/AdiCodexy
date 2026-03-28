@@ -2,75 +2,75 @@
 
 <img src="bannercodexy.jpg" width="100%"/>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-karale-2b589632a)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/adityaka1ale)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:adityakarale7@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/AdiCodexy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-karale-2b589632a)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaka1ale)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakarale7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdiCodexy)
 
 </div>
 
 ---
 
-## About me
+## 🧠 About Me
 
-<img align="right" src="rightpicx.jpg" width="220px" style="margin-left:20px"/>
+<img align="right" src="rightpicx.jpg" width="220px"/>
 
-Hello! I'm **Aditya Karale**, an AI & ML Engineer fueled by curiosity and an unhealthy obsession with building things that *actually work*.
+Hey, I'm **Aditya Karale** — an AI & ML Engineer who enjoys building things that actually work.
 
-By day, I turn AI/ML concepts into solid, scalable projects.
-By night, I'm deep in vibe coding sessions — where the music hits and the model trains itself *(hopefully)*.
+- 🚀 Turning ideas into scalable AI/ML projects  
+- 🎧 Late-night coding + music = best productivity  
+- 🧠 Interests: Deep Learning, Machine Learning, Creative AI  
+- 🌍 Beyond code: Biking, Chess, Content Creation  
+- 📩 Reach me: **adityakarale7@gmail.com**  
 
-<br>
-
-&nbsp; **AI & ML Engineering Student**
-&nbsp; **Interests** — Deep Learning, Machine Learning, Creative AI
-&nbsp; **Beyond code** — Biking, Chess, Content Creation
-&nbsp; **Reach me** — adityakarale7@gmail.com
-&nbsp; *Build it. Break it. Learn it. Repeat.*
+> *Build it. Break it. Learn it. Repeat.*
 
 <br clear="right"/>
 
 ---
 
-## Technologies
+## ⚡ Tech Stack
 
-**Frontend**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+### 💻 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
-**Backend**
+<br>
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+### ⚙️ Backend  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**AI / ML**
+<br>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=white)
+### 🤖 AI / ML  
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Infra & Tools**
+<br>
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+### 🛠️ Tools  
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## Statistic
+## 📊 Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AdiCodexy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666&stroke=000000&currStreakNum=ffffff&sideNums=ffffff)
+<div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=000000&color=666666&line=ffffff&point=ffffff&area=true&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=AdiCodexy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666&stroke=000000&currStreakNum=ffffff&sideNums=ffffff" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=000000&color=666666&line=ffffff&point=ffffff&area=true&hide_border=true" width="48%"/>
+
+</div>
