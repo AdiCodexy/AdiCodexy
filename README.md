@@ -3,20 +3,16 @@
 <img src="bannercodexy.jpg" width="100%"/>
 
 <br><br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-karale-2b589632a)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaka1ale)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakarale7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdiCodexy)
-
 </div>
 
 ---
 
 ## About Me
-
 <img align="right" src="rightpicx.jpg" width="170px"/>
-
 Hey, I'm **Aditya Karale** — an AI & ML Engineer who enjoys building things that actually work.
 
 - Turning ideas into scalable AI/ML projects  
@@ -24,11 +20,8 @@ Hey, I'm **Aditya Karale** — an AI & ML Engineer who enjoys building things th
 - Interests: Deep Learning, Machine Learning, Creative AI  
 - Beyond code: Biking, Chess, Content Creation  
 - Reach me: **adityakarale7@gmail.com**
-
 <br clear="right"/>
-
 ---
-
 ## Tech Stack
 
 <div align="center">
