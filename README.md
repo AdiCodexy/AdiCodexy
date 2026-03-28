@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 About me
+## About me
 
 <img align="right" src="rightpicx.jpg" width="220px" style="margin-left:20px"/>
 
@@ -31,17 +31,17 @@ By night, I'm deep in vibe coding sessions — where the music hits and the mode
 
 <br>
 
-🎓 &nbsp; **AI & ML Engineering Student**
-🧠 &nbsp; **Interests** — Deep Learning, Machine Learning, Creative AI
-🚴 &nbsp; **Beyond code** — Biking, Chess, Content Creation
-📫 &nbsp; **Reach me** — adityakarale7@gmail.com
-⚡ &nbsp; *Build it. Break it. Learn it. Repeat.*
+&nbsp; **AI & ML Engineering Student**
+&nbsp; **Interests** — Deep Learning, Machine Learning, Creative AI
+&nbsp; **Beyond code** — Biking, Chess, Content Creation
+&nbsp; **Reach me** — adityakarale7@gmail.com
+&nbsp; *Build it. Break it. Learn it. Repeat.*
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 **Frontend**
 
@@ -69,7 +69,7 @@ By night, I'm deep in vibe coding sessions — where the music hits and the mode
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 <table>
 <tr>
