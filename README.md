@@ -1,37 +1,18 @@
 <div align="center">
-  <img src="bannercodexy.jpg" alt="Banner" width="100%" />
+  <img src="profilebanner.png" width="100%"/>
+</div>
+<div align="center">
+  <img src="assets/main_banner.svg" width="100%"/>
 </div>
 
 <div align="center">
 
-# Hey, I'm Aditya Karale
-**AI & ML Engineer** &nbsp;|&nbsp; Training My Life's Model
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiCodexy&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=555555)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Build+it.+Break+it.+Learn+it.+Repeat.;Late+night+commits+%26+vibes.;Training+models+%26+myself.)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AdiCodexy&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=555555&stroke=000000&currStreakNum=ffffff&sideNums=ffffff)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCodexy&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=555555)
 
----
-
-<div align="center">
-
-## ◈ Know About Me
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiCodexy&bg_color=000000&color=555555&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 </div>
-
-I'm an **AI & ML Engineer** fueled by curiosity and an unhealthy obsession with building things that *actually work*. By day, I turn AI/ML concepts into solid, scalable projects. By night, I'm deep in vibe coding sessions — where the music hits and the model trains itself *(hopefully)*.
-
-| | |
-|---|---|
-| **Role** | AI & ML Engineer |
-| **Fuel** | Deep Learning, Vibe Coding, Late night commits |
-| **Interests** | Deep Learning, Machine Learning, Creative AI |
-| **Beyond code** | Biking, Chess, Content Creation |
-| **Reach me** | adityakarale7@gmail.com |
-| **Motto** | *Build it. Break it. Learn it. Repeat.* |
-
----
-
-<div align="center">
-
-## ◈
