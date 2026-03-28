@@ -12,7 +12,7 @@
 ---
 
 ## About Me
-<img align="right" src="rightpicx.jpg" width="170px"/>
+<img align="right" src="lowkeypic.jpeg" width="170px"/>
 Hey, I'm **Aditya Karale** — an AI & ML Engineer who enjoys building things that actually work.
 
 - Turning ideas into scalable AI/ML projects  
