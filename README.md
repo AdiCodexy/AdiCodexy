@@ -17,18 +17,12 @@
 
 <br>
 
-<table>
-  <tr>
-    <td width="60%" valign="middle">
-      <h2>Yoo I'm aditya aka jinx</h2>
-      <p>Co-Founder Of "Custodia", Author of "Death Chanel" &amp; Aspiring Data Scientist</p>
-      <br>
-      <p>As for my hobbies, I read a lot of Russian and German literature, I play chess &amp; I write a lot.</p>
-      <br>
-      <p>I don't have a lot to say but if you ever wanna talk about anime, games, web series and books, feel free to slide into my Instagram DMs!</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="xyz.right%20icon.jpg" alt="Side image" width="68%">
-    </td>
-  </tr>
-</table>
+<img align="right" src="ReadmeSideIcon.jpg" alt="Side icon" width="200">
+
+<h3>Yoo I'm aditya aka jinx</h3>
+
+<p>Co-Founder Of "Custodia", Author of "Death Chanel" &amp; Aspiring Data Scientist</p>
+
+<p>As for my hobbies, I read a lot of Russian and German literature, I play chess &amp; I write a lot.</p>
+
+<br clear="right">
