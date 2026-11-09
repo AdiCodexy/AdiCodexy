@@ -8,12 +8,14 @@
 
 <br>
 
+
 <div align="center">
   <a href="mailto:adityakarale7@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/aditya-karale-2b589632a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/adityaka1ale?igsh=empiaG9rdG1neW12"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"></a>
 </div>
 
+<hr>
 
 <img src="Github_Icon_1.jpg" alt="Icon" width="180" align="right">
 
@@ -25,6 +27,7 @@
 
 <br clear="all">
 
+<hr>
 
 <img src="Github_Icon_2.jpg" alt="Icon" width="180" align="left">
 
