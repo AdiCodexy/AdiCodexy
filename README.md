@@ -1,5 +1,9 @@
 <div align="center">
+<<<<<<< HEAD
   <img src="Github_banner_.jpeg" alt="MyBanner" width="100%">
+=======
+  <img src="GitBanner.png" alt="MyBanner.jpg" width="100%">
+>>>>>>> 1ca40ea6fa7f8f6f8928c97777c8e138ad7a49ee
 </div>
 
 <br>
@@ -9,13 +13,15 @@
 <br>
 
 <div align="center">
-  <a href="mailto:adityakarale7@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/aditya-karale-2b589632a/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/adityaka1ale?igsh=empiaG9rdG1neW12"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:adityakarale7@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail - Contact" height="40"></a>
+  <a href="https://www.linkedin.com/in/aditya-karale-2b589632a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn - Connect" height="40"></a>
+  <a href="https://www.instagram.com/jinx.easy/"><img src="https://img.shields.io/badge/Instagram-Follow-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram - Follow" height="40"></a>
+  <a href="https://www.youtube.com/@Qualialess"><img src="https://img.shields.io/badge/YouTube-Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube - Subscribe" height="40"></a>
 </div>
 
 <br>
 
+<<<<<<< HEAD
 <h3>Hey It's me Aditya</h3>
 
 <p>Co-founder of Custodia</p>
@@ -27,3 +33,14 @@
 <img src="Github_Icon_2.jpg" alt="Icon" width="180" align="left">
 
 <p>Outside of work, I read a lot of Russian and German literature, play chess, and write a lot. I am also the author of "Death Chanel".</p>
+=======
+<img align="right" src="ReadmeSideIcon.jpg" alt="Side icon" width="200">
+
+<h3>Yoo I'm aditya aka jinx</h3>
+
+<p>Co-Founder Of "Custodia", Author of "Death Chanel" &amp; Aspiring Data Scientist</p>
+
+<p>As for my hobbies, I read a lot of Russian and German literature, I play chess &amp; I write a lot.</p>
+
+<br clear="right">
+>>>>>>> 1ca40ea6fa7f8f6f8928c97777c8e138ad7a49ee
