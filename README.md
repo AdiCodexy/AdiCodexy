@@ -1,46 +1,37 @@
 <div align="center">
-<<<<<<< HEAD
-  <img src="Github_banner_.jpeg" alt="MyBanner" width="100%">
-=======
-  <img src="GitBanner.png" alt="MyBanner.jpg" width="100%">
->>>>>>> 1ca40ea6fa7f8f6f8928c97777c8e138ad7a49ee
+  <img src="PatrickBanner.png" alt="MyBanner" width="100%">
 </div>
 
 <br>
 
-<p>Transforming raw data into actionable intelligence and digital experiences. Currently deep-diving into Deep Learning, AI development, and creative problem solving. Created to create.</p>
+<p align="center">Transforming raw data into actionable intelligence and digital experiences. Currently deep-diving into Deep Learning, AI development, and creative problem solving. Created to create.</p>
 
 <br>
 
 <div align="center">
-  <a href="mailto:adityakarale7@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail - Contact" height="40"></a>
-  <a href="https://www.linkedin.com/in/aditya-karale-2b589632a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn - Connect" height="40"></a>
-  <a href="https://www.instagram.com/jinx.easy/"><img src="https://img.shields.io/badge/Instagram-Follow-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram - Follow" height="40"></a>
-  <a href="https://www.youtube.com/@Qualialess"><img src="https://img.shields.io/badge/YouTube-Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube - Subscribe" height="40"></a>
+  <a href="mailto:adityakarale7@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/aditya-karale-2b589632a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/adityaka1ale?igsh=empiaG9rdG1neW12"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"></a>
 </div>
 
-<br>
 
-<<<<<<< HEAD
-<h3>Hey It's me Aditya</h3>
+<img src="Github_Icon_1.jpg" alt="Icon" width="180" align="right">
 
-<p>Co-founder of Custodia</p>
+<p align="right"><img src="https://img.shields.io/badge/Hey_It%27s_me_Aditya-FFD700?style=for-the-badge" alt="Hey It's me Aditya"></p>
 
-<p>Custodia is a creative studio we run to turn ideas into real projects, from content on YouTube to software and AI experiments. We also take part in hackathons, with our first one coming up next week.</p>
+<h3 align="right">Co-founder of Custodia</h3>
 
-<br>
+<p align="right">Custodia is a browser-based coding platform we built for our college crew, with an in-browser editor, instant code execution and practice sets for Python, SQL, Java, C, DSA, DBMS and ML. We also take part in hackathons, with our first one coming up next week.</p>
+
+<br clear="all">
+
 
 <img src="Github_Icon_2.jpg" alt="Icon" width="180" align="left">
 
-<p>Outside of work, I read a lot of Russian and German literature, play chess, and write a lot. I am also the author of "Death Chanel".</p>
-=======
-<img align="right" src="ReadmeSideIcon.jpg" alt="Side icon" width="200">
+<p><img src="https://img.shields.io/badge/Beyond_the_code-FFD700?style=for-the-badge" alt="Beyond the code"></p>
 
-<h3>Yoo I'm aditya aka jinx</h3>
+<h3>Reader, Chess Player, Writer, Roblox Game Developer</h3>
 
-<p>Co-Founder Of "Custodia", Author of "Death Chanel" &amp; Aspiring Data Scientist</p>
+<p>I read a lot of Russian and German literature, play chess, and write a lot. I am also the author of "Death Chanel", and my first Roblox game, "Egg Overload", is going live on Roblox in a few days.</p>
 
-<p>As for my hobbies, I read a lot of Russian and German literature, I play chess &amp; I write a lot.</p>
-
-<br clear="right">
->>>>>>> 1ca40ea6fa7f8f6f8928c97777c8e138ad7a49ee
+<br clear="all">
