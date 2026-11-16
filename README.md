@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="PatrickBanner.png" alt="MyBanner" width="100%">
+  <img src="MyBanner.jpg" alt="MyBanner" width="100%">
 </div>
 
 <br>
@@ -15,11 +15,11 @@
   <a href="https://www.instagram.com/adityaka1ale?igsh=empiaG9rdG1neW12"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"></a>
 </div>
 
-<hr>
+<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ✦ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
-<img src="Github_Icon_1.jpg" alt="Icon" width="180" align="right">
+<img src="custodia.jpg" alt="Icon" width="180" align="right">
 
-<p align="right"><img src="https://img.shields.io/badge/Hey_It%27s_me_Aditya-FFD700?style=for-the-badge" alt="Hey It's me Aditya"></p>
+<p align="right"><img src="https://img.shields.io/badge/Hey_It%27s_me_Aditya-000000?style=for-the-badge" alt="Hey It's me Aditya"></p>
 
 <h3 align="right">Co-founder of Custodia</h3>
 
@@ -27,14 +27,15 @@
 
 <br clear="all">
 
-<hr>
+<h3 align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ✦ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</h3>
 
-<img src="Github_Icon_2.jpg" alt="Icon" width="180" align="left">
+<img src="permit.jpg" alt="Icon" width="180" align="left">
 
-<p><img src="https://img.shields.io/badge/Beyond_the_code-FFD700?style=for-the-badge" alt="Beyond the code"></p>
+<p><img src="https://img.shields.io/badge/Beyond_the_code-000000?style=for-the-badge" alt="Beyond the code"></p>
 
 <h3>Reader, Chess Player, Writer, Roblox Game Developer</h3>
 
 <p>I read a lot of Russian and German literature, play chess, and write a lot. I am also the author of "Death Chanel", and my first Roblox game, "Egg Overload", is going live on Roblox in a few days.</p>
 
 <br clear="all">
+
